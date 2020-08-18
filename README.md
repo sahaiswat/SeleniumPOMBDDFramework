@@ -12,7 +12,7 @@ Description:
 
 This is a project where user needs to log into to the application and search for a product which is coconut milk
 There are features file folder which includes the test scenario.
-Step Definition forlder where we have stepdefinition java class which is where we have the element locators and methods and test cases.
+Step Definition folder where we have stepdefinition java class which is where we have the element locators and methods and test cases.
 Runner folder where we have testRunner java class to execute the script
 
 Have also included end to end framework wherein have divided pages into class and corresponding test.
