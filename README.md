@@ -15,8 +15,11 @@ There are features file folder which includes the test scenario.
 Step Definition folder where we have stepdefinition java class which is where we have the element locators and methods and test cases.
 Runner folder where we have testRunner java class to execute the script
 
-Have also included end to end framework wherein have divided pages into class and corresponding test.
+Have also included end to end framework wherein have divided pages into page class and corresponding test class.
 There is a base class which has driver initilization and tear down
+Utility class which contains utilities
+Config File which contains config file which had information regarding username, browser info, password and Url
+
 There are three pages: login page, homepage and productpage which has the locators and actions using Page Factory.
 One test class to test the functionality log into to the application and search for a product which is coconut milk
-Have used assertions for verification of the test cases.
+Have used assertions for verification of the test cases wherever appropriate.
