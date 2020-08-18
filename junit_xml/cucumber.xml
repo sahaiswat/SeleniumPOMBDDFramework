@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="15.511698">
+<testcase classname="BidOne Login Feature" name="BidOne Login Test Scenarion" time="15.511698">
+<system-out><![CDATA[Given User is already on Login Page.........................................passed
+When User is on the BidOne Loginpage and Title of the page is BidOne........passed
+Then User logs into application.............................................passed
+And User searches for Coconut Milk..........................................passed
+And Search page is displayed................................................passed
+Then Closes the application.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
