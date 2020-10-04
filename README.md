@@ -1,4 +1,4 @@
-# BidOne
+
 Maven Project, BDD framework in Selenium using Java language
 
 Prerequisites:
